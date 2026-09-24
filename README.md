@@ -34,6 +34,6 @@ ComicCraft is an AI-powered comic story and script generator built using Google 
 - [x] **Phase 8:** Project Demonstration
 
 ## Project Demo Video
-- [Watch Demo Video on Google Drive](https://drive.google.com)
+- [Watch Demo Video on Google Drive](https://docs.google.com/document/d/1cUHzWLB-JAhWhOAANeMjYSeih82yPyjXIhna1D9vpEE/edit?usp=drivesdk)
 """
 )
